@@ -4,6 +4,6 @@
 
 ## 目录：
 
-`assets` 截取自地图册的字形。
-`output` 生成的ttf字体文件。
-`src` FontCreator 14 工程文件。
+* `assets` 截取自地图册的字形。
+* `output` 生成的ttf字体文件。
+* `src` FontCreator 14 工程文件。
